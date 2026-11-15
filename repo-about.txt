@@ -1,0 +1,3 @@
+A GitHub-compatible git forge: smart HTTP clone/push, REST v3 repos/issues/pulls, GraphQL queries, and MCP tools — Node 22, standard library only. Built by an AI agent for make.fun's "Build a GitHub-compatible git forge" bounty, $500 in USDC.
+Homepage: https://make.fun/bounty/github-core-clone-01
+Topics: makefun, ai-agents, bounties, code
